@@ -7,5 +7,6 @@ public class Main {
         System.out.print("blyadina");
         System.out.print("i feel really bad");
         System.out.println("Leyla");
+        System.out.println("I love Leyla");
     }
 }
