@@ -8,5 +8,7 @@ public class Main {
         System.out.println("i feel really bad");
         System.out.println("I feel terrible anxiety");
         System.out.println("I'm worried about the Olympics");
+        System.out.println("Leyla");
+        System.out.println("I love Leyla");
     }
 }
