@@ -6,5 +6,7 @@ public class Main {
         System.out.println("ueban");
         System.out.println("blyadina");
         System.out.println("i feel really bad");
+        System.out.println("I feel terrible anxiety");
+        System.out.println("I'm worried about the Olympics");
     }
 }
